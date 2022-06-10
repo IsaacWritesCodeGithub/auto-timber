@@ -8,7 +8,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 from twilio.rest import Client
 
-# TODO: Fix pandas problem AWS
 def main(event=None, context=None):
     options = Options()
     options.add_argument("headless")
