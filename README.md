@@ -1,2 +1,2 @@
 # auto-timber
-Automatically get timber prices sent to you daily
+Automatically get timber prices sent to you
